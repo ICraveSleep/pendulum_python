@@ -34,4 +34,4 @@ if __name__ == '__main__':
         sim_dp.append(dp)
         sim_ddp.append(ddp)
 
-    plot_and_animate(sim_p, sim_dp, sim_ddp, time, fps, save_anim=True)
+    plot_and_animate(sim_p, sim_dp, sim_ddp, time, fps, save_anim=False)
