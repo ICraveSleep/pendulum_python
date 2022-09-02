@@ -8,13 +8,19 @@ def plot_and_animate(theta, d_theta, dd_theta, time, fps, save_anim=False):
     sim_p, sim_dp, sim_ddp, time = compress(theta, d_theta, dd_theta, time, fps)
 
     fig, axs = plt.subplots(3)
-    fig.suptitle("figure", fontsize=14)
+    fig.suptitle("Pendulum", fontsize=14)
     axs[0].plot(time, sim_p)
-    axs[0].set_title("theta")
+    axs[0].set_title(r"$\theta$")
+    axs[0].set_ylabel(r"$\theta$")
+    axs[0].set_xlabel("time")
     axs[1].plot(time, sim_dp)
-    axs[1].set_title("theta d")
+    axs[1].set_title(r"$\dot\theta$")
+    axs[1].set_ylabel(r"$\dot\theta$")
+    axs[1].set_xlabel("time")
     axs[2].plot(time, sim_ddp)
-    axs[2].set_title("theta dd")
+    axs[2].set_title(r"$\ddot\theta$")
+    axs[2].set_ylabel(r"$\ddot\theta$")
+    axs[2].set_xlabel("time")
     fig.tight_layout()
 
     plt.rcParams['animation.html'] = 'html5'
