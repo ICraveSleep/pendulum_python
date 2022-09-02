@@ -12,3 +12,7 @@ Simulation with the following initial conditions: [0.15, 0, 0]
 <p align="center">
     <img src="gifs/pendulum.gif"/>
 </p>
+
+<p align="center">
+    <img src="gifs/pendulum_plot.png"/>
+</p>
