@@ -27,20 +27,23 @@ def plot_and_animate(theta, d_theta, dd_theta, time, fps, save_anim=False):
     ax.set_xlabel('position')
     ax.get_yaxis().set_visible(False)
 
-    hinge, = ax.plot([0, 0], [0, 0], 'k', marker='o')
-    pendulum, = ax.plot([], [], color='k', marker='o', markersize=10)
+    rod, = ax.plot([], [], color='k')
+    pendulum, = ax.plot([], [], color='orange', marker='o', markersize=25, markeredgecolor='k')
     time_template = 'time = %.1fs'
     time_text = ax.text(0.05, 0.9, '', transform=ax.transAxes)
 
     def init():
+        rod.set_data([], [])
         pendulum.set_data([], [])
         time_text.set_text('')
         return pendulum, time_text
 
     def animate(i):
-        pendulum.set_data([0, x[i]], [0, y[i]])
+        rod.set_data([0, x[i]], [0, y[i]])
+        pendulum.set_data([x[i]], [y[i]])
+        hinge, = ax.plot([0, 0], [0, 0], color="orange", marker='o', markersize=10, markeredgecolor='k')
         time_text.set_text(time_template % time[i])
-        return pendulum, time_text
+        return rod, pendulum, time_text
 
     anim = animation.FuncAnimation(fig, animate, len(time), interval=40, blit=False, init_func=init)
     if save_anim:
