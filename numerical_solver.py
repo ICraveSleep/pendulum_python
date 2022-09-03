@@ -13,7 +13,7 @@ def forward_euler(pendulum_length, initial_condition: [], sim_time: [], dt):
     sim_dp = []
     sim_ddp = []
     for t in time:
-        ddp = -g / length * sin(p)
+        ddp = g / length * sin(p)
         dp = dp + ddp * dt
         p = p + dp * dt
         sim_p.append(p)

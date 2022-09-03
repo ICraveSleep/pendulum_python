@@ -53,7 +53,7 @@ def plot_and_animate(theta, d_theta, dd_theta, time, fps, save_anim=False):
 
     anim = animation.FuncAnimation(fig, animate, len(time), interval=40, blit=False, init_func=init)
     if save_anim:
-        anim.save('gifs/pendulum.gif', writer='imagemagick', fps=30)
+        anim.save('misc/pendulum.gif', writer='imagemagick', fps=30)
     plt.show()
 
 

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="pendulum.svg"
+   inkscape:export-filename="pendulum.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="2.0278272"
+     inkscape:cx="316.10188"
+     inkscape:cy="504.97399"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker8459"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8457" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8405"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8403" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8459-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8457-8" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.296285;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#TriangleStart)"
+       id="path1857"
+       sodipodi:type="arc"
+       sodipodi:cx="105.11758"
+       sodipodi:cy="148.49998"
+       sodipodi:rx="10.374899"
+       sodipodi:ry="10.097624"
+       sodipodi:start="4.3176956"
+       sodipodi:end="4.712389"
+       sodipodi:arc-type="arc"
+       d="m 101.12817,139.17872 a 10.374899,10.097624 0 0 1 3.98941,-0.77636"
+       sodipodi:open="true" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.235152;stroke-dasharray:0.235152, 2.82182;stroke-dashoffset:0"
+       d="m 105.11758,148.49996 0.0118,-35.99887"
+       id="path333" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.592571;stroke-dasharray:none"
+       d="M 105.12349,148.49999 84.373682,112.5603"
+       id="path1075"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.23274"
+       id="path165"
+       cx="105.11758"
+       cy="148.49998"
+       r="1.2485329" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.627136"
+       id="path277"
+       cx="84.265144"
+       cy="112.50104"
+       r="3.5541289" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#marker8459-0)"
+       d="m 84.417303,112.6403 c -2.77424,-4.80512 -2.77424,-4.80512 -2.77424,-4.80512"
+       id="path13165-3" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#marker8459)"
+       d="m 84.372118,112.56281 c 4.805127,-2.77424 4.805127,-2.77424 4.805127,-2.77424"
+       id="path13165" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.237028;stroke-dasharray:0.237028, 1.42217;stroke-dashoffset:0"
+       d="M 84.36777,112.5603 H 105.1294"
+       id="path1077" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0"
+       x="101.66331"
+       y="137.25957"
+       id="text4524"><tspan
+         sodipodi:role="line"
+         id="tspan4522"
+         style="fill:#000000;stroke:none;stroke-width:0.125"
+         x="101.66331"
+         y="137.25957">θ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.89495px;fill:#000000;stroke:none;stroke-width:0.0746044;stroke-dasharray:none;stroke-dashoffset:0"
+       x="82.696663"
+       y="108.5214"
+       id="text4524-7"><tspan
+         sodipodi:role="line"
+         id="tspan4522-5"
+         style="fill:#000000;stroke:none;stroke-width:0.0746044"
+         x="82.696663"
+         y="108.5214">θ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.32176px;fill:#000000;stroke:none;stroke-width:0.0520379;stroke-dasharray:none;stroke-dashoffset:0"
+       x="87.95591"
+       y="117.19034"
+       id="text4524-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan4522-5-5"
+         style="fill:#000000;stroke:none;stroke-width:0.0520379"
+         x="87.95591"
+         y="117.19034">mgcos(θ<tspan
+   style="font-size:0.859146px;baseline-shift:sub;stroke-width:0.0520379"
+   id="tspan13477">2</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.29263px;fill:#000000;stroke:none;stroke-width:0.0508911;stroke-dasharray:none;stroke-dashoffset:0"
+       x="76.946815"
+       y="116.87511"
+       id="text4524-7-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan4522-5-5-6"
+         style="fill:#000000;stroke:none;stroke-width:0.0508911"
+         x="76.946815"
+         y="116.87511">mgsin(θ<tspan
+   style="font-size:0.840211px;baseline-shift:sub;stroke-width:0.0508911"
+   id="tspan13477-7">2</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.68986px;fill:#000000;stroke:none;stroke-width:0.0665301;stroke-dasharray:none;stroke-dashoffset:0"
+       x="69.365562"
+       y="113.81044"
+       id="text4524-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan4522-5-4"
+         style="fill:#000000;stroke:none;stroke-width:0.0665301"
+         x="69.365562"
+         y="113.81044">θ<tspan
+   style="font-size:1.09841px;baseline-shift:sub;stroke-width:0.0665301"
+   id="tspan8585">2</tspan>=π+θ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0"
+       x="91.016136"
+       y="131.68744"
+       id="text5328"><tspan
+         sodipodi:role="line"
+         id="tspan5326"
+         style="stroke-width:0.125"
+         x="91.016136"
+         y="131.68744">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0"
+       x="82.81205"
+       y="113.33088"
+       id="text5332"><tspan
+         sodipodi:role="line"
+         id="tspan5330"
+         style="stroke-width:0.125"
+         x="82.81205"
+         y="113.33088">m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0"
+       x="107.33871"
+       y="129.37285"
+       id="text5336"><tspan
+         sodipodi:role="line"
+         id="tspan5334"
+         style="stroke-width:0.125"
+         x="107.33871"
+         y="129.37285">Lcos(θ)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0"
+       x="91.736244"
+       y="111.0704"
+       id="text5336-7"><tspan
+         sodipodi:role="line"
+         id="tspan5334-7"
+         style="stroke-width:0.125"
+         x="91.736244"
+         y="111.0704">Lsin(θ)</tspan></text>
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 84.367774,112.5603 v 11.45583"
+       id="path6103" />
+    <path
+       style="fill:#000000;stroke:#ff0000;stroke-width:0.15;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#marker8459)"
+       d="m 88.794156,120.13266 c -4.397908,-7.48644 -4.397908,-7.48644 -4.397908,-7.48644"
+       id="path7581-2" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.125;stroke-dasharray:0.125,0.75;stroke-dashoffset:0"
+       d="M 84.367766,112.5603 84.377,101.83964"
+       id="path8321" />
+    <path
+       style="fill:#000000;stroke:#ff0000;stroke-width:0.15;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#marker8459)"
+       d="m 84.363185,122.63655 0.0087,-10.09188"
+       id="path8321-3" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.75818px;fill:#000000;stroke:#000000;stroke-width:0.0692197;stroke-dasharray:none;stroke-dashoffset:0"
+       x="84.780586"
+       y="120.88873"
+       id="text8393"><tspan
+         sodipodi:role="line"
+         id="tspan8391"
+         style="stroke-width:0.0692197"
+         x="84.780586"
+         y="120.88873">mg</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#marker8459)"
+       id="path8399"
+       sodipodi:type="arc"
+       sodipodi:cx="84.367767"
+       sodipodi:cy="112.5603"
+       sodipodi:rx="5.7794418"
+       sodipodi:ry="5.7279153"
+       sodipodi:start="4.2784342"
+       sodipodi:end="4.7106458"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 81.93773,107.36331 a 5.7794418,5.7279153 0 0 1 2.419963,-0.53091" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0931995;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#marker8405)"
+       id="path8401"
+       sodipodi:type="arc"
+       sodipodi:cx="83.728867"
+       sodipodi:cy="112.56035"
+       sodipodi:rx="7.0292335"
+       sodipodi:ry="7.0292335"
+       sodipodi:start="1.0479432"
+       sodipodi:end="4.7848735"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 87.238943,118.65046 a 7.0292335,7.0292335 0 0 1 -8.159773,-0.81845 7.0292335,7.0292335 0 0 1 -1.831105,-7.99367 7.0292335,7.0292335 0 0 1 6.989866,-4.28877" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.120787;stroke-dasharray:0.120787,0.72472201;stroke-dashoffset:0"
+       d="m 79.724135,104.52476 4.653918,-2.68694"
+       id="path13416" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.15;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#marker8459)"
+       d="M 80.056676,115.05695 84.334755,112.587"
+       id="path13416-7" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#marker8459)"
+       d="m 105.11758,148.49996 h 4.98216"
+       id="path18737" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#marker8459)"
+       d="m 105.11758,148.54364 v -4.98216"
+       id="path18737-6" />
+    <g
+       id="g1138"
+       transform="matrix(0.79891463,0,0,0.79891463,23.445346,35.740003)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0"
+         x="53.048962"
+         y="134.95346"
+         id="text22535"><tspan
+           sodipodi:role="line"
+           id="tspan22533"
+           style="stroke-width:0.125"
+           x="53.048962"
+           y="134.95346">sin(π + a) = -sin(a)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0"
+         x="58.737507"
+         y="139.87144"
+         id="text22539"><tspan
+           sodipodi:role="line"
+           id="tspan22537"
+           style="stroke-width:0.125"
+           x="58.737507"
+           y="139.87144">sin(-a) = -sin(a)</tspan></text>
+      <g
+         id="g22647"
+         transform="translate(0.13229167,-1.0293714)">
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0"
+           x="67.733597"
+           y="145.79497"
+           id="text22539-5"><tspan
+             sodipodi:role="line"
+             id="tspan22537-2"
+             style="stroke-width:0.125"
+             x="67.733597"
+             y="145.79497">I = mL<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan22568">2</tspan></tspan></text>
+      </g>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect22701"
+         width="34.799629"
+         height="15.447642"
+         x="51.64957"
+         y="131.15079" />
+    </g>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.0940216;stroke-dasharray:0.0940216,0.56412962;stroke-dashoffset:0"
+       d="M 84.372118,112.56281 C 79.73007,104.52255 79.73007,104.52255 79.73007,104.52255"
+       id="path7581" />
+    <g
+       id="g1166"
+       transform="translate(7.6773758,0.39544216)">
+      <text
+         xml:space="preserve"
+         style="font-size:2.72849px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421;stroke-dasharray:none;stroke-dashoffset:0"
+         x="70.381371"
+         y="164.07626"
+         id="text14287-5-9"><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421"
+           x="70.381371"
+           y="164.07626"
+           id="tspan18307-2-3">= -mgsin(π + θ)*L  </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.72849px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421;stroke-dasharray:none;stroke-dashoffset:0"
+         x="70.381371"
+         y="167.64697"
+         id="text14287-5-9-8"><tspan
+           sodipodi:role="line"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421"
+           x="70.381371"
+           y="167.64697"
+           id="tspan18307-2-3-7">= mgsin(θ)*L  </tspan></text>
+      <g
+         id="g494">
+        <text
+           xml:space="preserve"
+           style="font-size:2.72849px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421;stroke-dasharray:none;stroke-dashoffset:0"
+           x="57.166805"
+           y="160.50555"
+           id="text14287"><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421"
+             x="57.166805"
+             y="160.50555"
+             id="tspan18307">ΣMo = Iθ = (-mg)sin(θ<tspan
+   style="font-size:1.77352px;baseline-shift:sub;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421"
+   id="tspan15951">2</tspan>)*L +mgcos(θ<tspan
+   style="font-size:1.77352px;baseline-shift:sub;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421"
+   id="tspan19869">2</tspan>)*0  </tspan></text>
+        <g
+           id="g394"
+           transform="translate(0.0489286,0.90883273)">
+          <g
+             id="g484"
+             transform="translate(0,-0.0978572)">
+            <ellipse
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0154359;stroke-dasharray:none;stroke-dashoffset:0"
+               id="path22572-0"
+               ry="0.17478594"
+               rx="0.18070565"
+               cy="157.32761"
+               cx="68.3097" />
+            <ellipse
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0154359;stroke-dasharray:none;stroke-dashoffset:0"
+               id="path22572-7-8"
+               ry="0.17478594"
+               rx="0.18070565"
+               cy="157.32761"
+               cx="68.75293" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g24408"
+         transform="translate(-2.4711463,13.267135)">
+        <text
+           xml:space="preserve"
+           style="font-size:2.72849px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421;stroke-dasharray:none;stroke-dashoffset:0"
+           x="70.381371"
+           y="171.36513"
+           id="text14287-5-9-8-9"
+           transform="translate(-5.4116995,-12.926437)"><tspan
+             sodipodi:role="line"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421"
+             x="70.381371"
+             y="171.36513"
+             id="tspan18307-2-3-7-7">mL<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan24318">2</tspan>θ = mgsin(θ)*L  </tspan></text>
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0154359;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path22572-0-5"
+           ry="0.17478594"
+           rx="0.18070565"
+           cy="156.03101"
+           cx="70.885948" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0154359;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path22572-7-8-3"
+           ry="0.17478594"
+           rx="0.18070565"
+           cy="156.03101"
+           cx="71.329178" />
+      </g>
+      <g
+         id="g24436"
+         transform="translate(-0.34410854,0.31199414)">
+        <g
+           id="g24398"
+           transform="translate(-7.4744792,0.08152212)">
+          <text
+             xml:space="preserve"
+             style="font-size:2.72849px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421;stroke-dasharray:none;stroke-dashoffset:0"
+             x="75.697144"
+             y="175.36288"
+             id="text14287-5-9-8-9-6"><tspan
+               sodipodi:role="line"
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107421"
+               x="75.697144"
+               y="175.36288"
+               id="tspan18307-2-3-7-7-3">θ = (g/l)sin(θ)  </tspan></text>
+        </g>
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0154359;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path22572-0-0"
+           ry="0.17478594"
+           rx="0.18070565"
+           cy="173.045"
+           cx="68.823166" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0154359;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path22572-7-8-36"
+           ry="0.17478594"
+           rx="0.18070565"
+           cy="173.045"
+           cx="69.266396" />
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.15;stroke-dasharray:none"
+         id="rect548"
+         width="57.446316"
+         height="22.963823"
+         x="56.160275"
+         y="155.76225" />
+    </g>
+  </g>
+</svg>
