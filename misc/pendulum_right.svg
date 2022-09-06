@@ -28,9 +28,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="4"
-     inkscape:cx="95.75"
-     inkscape:cy="49"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="83.4386"
+     inkscape:cy="79.372736"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -312,42 +312,55 @@
     <text
        xml:space="preserve"
        style="font-size:1.32176px;fill:#000000;stroke:none;stroke-width:0.0520379;stroke-dasharray:none;stroke-dashoffset:0"
-       x="118.16652"
-       y="118.03588"
+       x="119.48138"
+       y="118.01749"
        id="text4524-7-8-6-4"><tspan
          sodipodi:role="line"
          id="tspan4522-5-5-8-4"
          style="fill:#000000;stroke:none;stroke-width:0.0520379"
-         x="118.16652"
-         y="118.03588">angle = 270<tspan
+         x="119.48138"
+         y="118.01749">angle_2 = 270<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan40417">o</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.32176px;fill:#000000;stroke:none;stroke-width:0.0520379;stroke-dasharray:none;stroke-dashoffset:0"
+       x="119.48138"
+       y="116.19345"
+       id="text4524-7-8-6-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan4522-5-5-8-4-1"
+         style="fill:#000000;stroke:none;stroke-width:0.0520379"
+         x="119.48138"
+         y="116.19345">angle_1 = 180<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan40417-3">o</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.32176px;fill:#000000;stroke:none;stroke-width:0.0520379;stroke-dasharray:none;stroke-dashoffset:0"
        x="115.21322"
-       y="129.1722"
+       y="127.82225"
        id="text4524-7-8-6-4-9"><tspan
          sodipodi:role="line"
          id="tspan4522-5-5-8-4-9"
          style="fill:#000000;stroke:none;stroke-width:0.0520379"
          x="115.21322"
-         y="129.1722">F<tspan
+         y="127.82225">F<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan40459">x</tspan> = mgsin(θ) * cos(angle)</tspan></text>
+   id="tspan40459">x</tspan> = mgsin(θ) * cos(angle_1)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.32176px;fill:#000000;stroke:none;stroke-width:0.0520379;stroke-dasharray:none;stroke-dashoffset:0"
        x="115.21322"
-       y="127.47749"
+       y="129.6015"
        id="text4524-7-8-6-4-9-2"><tspan
          sodipodi:role="line"
          id="tspan4522-5-5-8-4-9-1"
          style="fill:#000000;stroke:none;stroke-width:0.0520379"
          x="115.21322"
-         y="127.47749">F<tspan
+         y="129.6015">F<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan40459-9">x</tspan> = mgcos(θ) * sin(angle)</tspan></text>
+   id="tspan40656">y</tspan> = mgcos(θ) * sin(angle_2)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:1.29263px;fill:#000000;stroke:none;stroke-width:0.0508911;stroke-dasharray:none;stroke-dashoffset:0"
