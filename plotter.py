@@ -25,8 +25,8 @@ def plot_and_animate(theta, d_theta, dd_theta, time, fps, save_anim=False):
 
     plt.rcParams['animation.html'] = 'html5'
 
-    x = [sin(a) for a in sim_p]
-    y = [cos(a) for a in sim_p]
+    x = [cos(a) for a in sim_p]
+    y = [sin(a) for a in sim_p]
 
     fig = plt.figure(figsize=(6.4, 6.4))
     ax = fig.add_subplot(111, autoscale_on=False, xlim=(-1.2, 1.2), ylim=(-1.2, 1.2))
