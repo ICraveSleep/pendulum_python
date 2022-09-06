@@ -17,7 +17,7 @@ $$
 \ddot \theta = -\frac{g}{l}\cos(\theta)
 $$
 
-Simulation with the following initial conditions: [0.55, 0, 0]
+Simulation with the following initial conditions: [0.75, 0, 0]
 <p align="center">
     <img src="misc/pendulum.gif"/>
 </p>
