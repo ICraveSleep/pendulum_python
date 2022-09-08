@@ -32,12 +32,17 @@ def create_time_span(t_start, t_end, step_size):
     return time_span
 
 
-def transform_2d(theta):
+def inverse_transform_2d(theta):
     """
     Function used to visualize the counterclockwise (CCW)
     transformation matrix.
+
+    [x] = [x'][cos(theta)-sin(theta)]
+    [y] = [y'][sin(theta)+cos(theta)]
+
     :param theta: Angle
     """
+
     m_11 = cos(theta)
     m_12 = -sin(theta)
     m_21 = sin(theta)
